@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**aysnet1/aysnet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ###Aycer 🙋🏻‍♂️,From Tunisia 🇹🇳 , I'm an elementary school teacher 👨🏻‍🏫 and, I'm developer always looking for the best, always looking for learning 😁😍 and new challenges😋💪🏻! My hoby😍 is learning, I'm currently in love with the stack of  (### Laravel,family ###Vuejs(Nuxtjs,Quasar)).
 
-Here are some ideas to get you started:
+My Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ruby
+Php
+Laravel
+Rails
+Javascript
+NodeJs
+Vuejs
+Nuxtjs
+Quasar 
+_____
+
+- 🔭 I’m currently working on Digi**** project 
+- 🌱 I’m currently learning ❤️Rails
+
+
