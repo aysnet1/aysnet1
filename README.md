@@ -8,10 +8,8 @@ I'm Aycer 🙋🏻‍♂️,From Tunisia 🇹🇳 , I'm an elementary school tea
 
 My Stack:
 
-- Ruby. 
 - Php. 
 - Laravel. 
-- Rails. 
 - Javascript. 
 - NodeJs. 
 - Vuejs. 
@@ -19,7 +17,5 @@ My Stack:
 - Quasar. 
 _____
 
-- 🔭 I’m currently working on Digi**** project 
-- 🌱 I’m currently learning ❤️ Rails
 
 
